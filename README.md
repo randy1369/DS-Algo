@@ -1,3 +1,3 @@
-# Trial
+# Welcome
 
 Algorithms & Data Structures
